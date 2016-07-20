@@ -1,4 +1,5 @@
 angular.module('home', [
     'productTile',
-    'featuredProducts'
+    'featuredProducts',
+    'productCollections'
 ]);
