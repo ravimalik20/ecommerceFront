@@ -1,1 +1,4 @@
-angular.module('home', ['productTile']);
+angular.module('home', [
+    'productTile',
+    'featuredProducts'
+]);
